@@ -2,3 +2,4 @@
 /geopandas/Dados/Censo 2010
 /geopandas/Dados/Vegetação e Uso do Solo
 .ipynb_checkpoints
+__pycache__
