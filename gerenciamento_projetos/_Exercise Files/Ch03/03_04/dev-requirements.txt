@@ -1,4 +1,0 @@
-# Development requirements
-
-flake8==3.7.8
-pytest==5.1.1
