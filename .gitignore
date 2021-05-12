@@ -9,3 +9,70 @@ __pycache__
 /geopandas/Curso 2/Folium Marcadores Clusterizados.html
 /geopandas/Curso 2/Folium Marcadores gerado.html
 linkedin-building_tools/decks/*
+/jupyter/
+Algoritmos de ML/trained_house_classifier_model.pkl
+*.zip
+*.mp3
+*.mp4
+*.wav
+*.xlsx
+*.pptx
+*.csv
+Alura/Geopandas/Dados/dados.txt
+Alura/Geopandas/Dados/Censo 2010/Documentação/BASE DE INFORMAÇÕES POR SETOR CENSITÁRIO Censo 2010 - Universo.doc
+Alura/Geopandas/Dados/Censo 2010/Documentação/BASE DE INFORMAÇÕES POR SETOR CENSITÁRIO Censo 2010 - Universo.pdf
+Alura/Geopandas/Dados/Censo 2010/Documentação/Descrição_RJ.xls
+Alura/Geopandas/Dados/Mapas/RJ/33MUE250GC_SIR.dbf
+Alura/Geopandas/Dados/Mapas/RJ/33MUE250GC_SIR.prj
+Alura/Geopandas/Dados/Mapas/RJ/33MUE250GC_SIR.shp
+Alura/Geopandas/Dados/Mapas/RJ/33MUE250GC_SIR.shx
+Alura/Geopandas/Dados/Mapas/RJ-BAIRROS/RJ-BAIRRO.cpg
+Alura/Geopandas/Dados/Mapas/RJ-BAIRROS/RJ-BAIRRO.dbf
+Alura/Geopandas/Dados/Mapas/RJ-BAIRROS/RJ-BAIRRO.prj
+Alura/Geopandas/Dados/Mapas/RJ-BAIRROS/RJ-BAIRRO.shp
+Alura/Geopandas/Dados/Mapas/RJ-BAIRROS/RJ-BAIRRO.shx
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-CENSO.cpg
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-CENSO.dbf
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-CENSO.prj
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-CENSO.shp
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-CENSO.shx
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-FINAL.cpg
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-FINAL.dbf
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-FINAL.prj
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-FINAL.shp
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET-FINAL.shx
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET.cpg
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET.dbf
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET.prj
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET.shp
+Alura/Geopandas/Dados/Mapas/RJ-DATASET/RJ-DATASET.shx
+Alura/Geopandas/Dados/Mapas/RJ-MUNIC/RJ-MUNIC.cpg
+Alura/Geopandas/Dados/Mapas/RJ-MUNIC/RJ-MUNIC.dbf
+Alura/Geopandas/Dados/Mapas/RJ-MUNIC/RJ-MUNIC.prj
+Alura/Geopandas/Dados/Mapas/RJ-MUNIC/RJ-MUNIC.shp
+Alura/Geopandas/Dados/Mapas/RJ-MUNIC/RJ-MUNIC.shx
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR-CENSO.cpg
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR-CENSO.dbf
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR-CENSO.prj
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR-CENSO.shp
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR-CENSO.shx
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR.cpg
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR.dbf
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR.prj
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR.shp
+Alura/Geopandas/Dados/Mapas/RJ-SETOR/RJ-SETOR.shx
+Alura/Geopandas/Dados/Mapas/RS/43MUE250GC_SIR.cpg
+Alura/Geopandas/Dados/Mapas/RS/43MUE250GC_SIR.dbf
+Alura/Geopandas/Dados/Mapas/RS/43MUE250GC_SIR.prj
+Alura/Geopandas/Dados/Mapas/RS/43MUE250GC_SIR.shp
+Alura/Geopandas/Dados/Mapas/RS/43MUE250GC_SIR.shx
+Alura/Geopandas/Dados/Mapas/RS-POA-MUNIC/POA-MUNIC.cpg
+Alura/Geopandas/Dados/Mapas/RS-POA-MUNIC/POA-MUNIC.dbf
+Alura/Geopandas/Dados/Mapas/RS-POA-MUNIC/POA-MUNIC.prj
+Alura/Geopandas/Dados/Mapas/RS-POA-MUNIC/POA-MUNIC.shp
+Alura/Geopandas/Dados/Mapas/RS-POA-MUNIC/POA-MUNIC.shx
+Alura/Geopandas/Dados/Transporte/BRT/Estações_BRT.geojson
+Alura/Geopandas/Dados/Transporte/Metrô/Estações_Metrô.geojson
+Alura/Geopandas/Dados/Transporte/Trem/Estações_Trem.geojson
+Alura/Geopandas/Dados/Vegetação e Uso do Solo/Cobertura_Vegetal_e_Uso_da_Terra_2016.geojson
+.gitignore
