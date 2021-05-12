@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Arquivo Atual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: PyDestreamer",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": [
+                "-v",
+                "https://web.microsoftstream.com/video/ba22a0e9-b083-46bc-99ba-9ef1c1cfa180",
+                "-u",
+                "procergs-caesar-cesar@betaprocergs.rs.gov.br",
+                "-p",
+                "!Cq;2bKLUrN^Hy7"
+            ]
+        },
+        {
+            "name": "Python: Anexar",
+            "type": "python",
+            "request": "attach",
+            "connect": {
+                "host": "localhost",
+                "port": 5678
+            },
+        }
+    ]
+}
